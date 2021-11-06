@@ -8,9 +8,6 @@
 
 
 
-
-
-- 🔭 At this moment I'm  doing Bachelor degree in Computer Science and Technology
 - 🌱 I’m currently learning JS
 - 👯 open source contributor
 - 💬 Ask me about **MongoDB** **Express** **JS** 
