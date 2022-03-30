@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning JS
 - 👯 open source contributor
 - 💬 Ask me about **MongoDB** **Express** **JS** 
-- 📫 How to reach me: kalumunabisimwa5@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
