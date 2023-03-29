@@ -8,9 +8,8 @@
 
 
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently working on a Rails Project Anity Job Posting
 - 👯 open source contributor
-- 💬 Ask me about **MongoDB** **Express** **JS** 
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
