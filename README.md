@@ -8,5 +8,3 @@
      <br><br><a href="https://twitter.com/AlfredBisimwa3">Twitter</a> || <a href="https://www.linkedin.com/in/alfred-bisimwa/">LinkedIn</a>
   </samp>
 </p>
-
- ![GitHub all releases](https://img.shields.io/github/downloads/Alfredbis29/My-budget-app/total?logo=Github&logoColor=%23fff000&style=flat-square)
